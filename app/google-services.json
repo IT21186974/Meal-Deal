@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586546554613",
+    "project_id": "meal-deal-it21186974",
+    "storage_bucket": "meal-deal-it21186974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586546554613:android:aaf939608eaa414bdf47bc",
+        "android_client_info": {
+          "package_name": "com.example.madfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586546554613-2ann8fhlaqn6419te02617d6548kvkqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBi0dlBbeojIyEqS_nkI4vFoTqJfUW0n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586546554613-2ann8fhlaqn6419te02617d6548kvkqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
