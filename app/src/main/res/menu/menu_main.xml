@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.danielmalone.dansecommerce.MainActivity">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/actionHome"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="Home"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/actionJeans"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="Jeans"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/actionShorts"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="Shorts"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_settings4"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:orderInCategory="100"
+            android:title="Socks"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_settings5"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:orderInCategory="100"
+            android:title="@string/action_settings"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/actionAdmin"
+            android:icon="@drawable/ic_playlist_add_black_24dp"
+            android:orderInCategory="100"
+            android:title="Admin"
+            app:showAsAction="never" />
+
+    </group>
+
+</menu>
