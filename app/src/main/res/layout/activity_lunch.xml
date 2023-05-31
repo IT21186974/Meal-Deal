@@ -25,7 +25,7 @@
 
 
     <EditText
-        android:id="@+id/edId"
+        android:id="@+id/edLunchItem"
         android:layout_width="230dp"
         android:layout_height="58dp"
         android:hint="item ID"
